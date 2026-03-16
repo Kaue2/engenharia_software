@@ -115,3 +115,4 @@ O sistema oferece as seguintes capacidades principais:
 * [Pesquisa de mobilidade](https://nossasaopaulo.org.br/wp-content/uploads/2019/01/Viver-em-SP-2024_Mobilidade_resumida.pdf)
 * [Matéria Jovem Pam](https://jovempan.com.br/programas/jornal-da-manha/tempo-gasto-no-transporte-publico-na-cidade-de-sao-paulo-sobe-para-2h47.html)
 * [Matéria Mobilize Brasil](https://www.mobilize.org.br/noticias/14251/na-contramao-da-mobilidade-urbana.html)
+* [Wireframes de baixissima resolução](https://www.figma.com/design/eq3HicIS1rX8LCOToApptt/Price-Crawler?node-id=1043-2&t=HSHctMRsnIwYWpAD-1)
